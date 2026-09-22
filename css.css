@@ -1,0 +1,14 @@
+.retangulo-grande {
+    width: 600px;
+    height: 200px;
+    background-color: #3498db;
+    margin-bottom: 20px;
+}
+
+.retangulo-pequeno {
+    width: 200px;
+    height: 200px;
+    background-color: #e74c3c;
+    display: inline-block;
+    margin-right: 20px;
+}
