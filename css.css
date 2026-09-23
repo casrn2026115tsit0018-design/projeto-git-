@@ -12,6 +12,7 @@
     height: 200px;
     background-color: #3498db;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .retangulo-pequeno {
@@ -19,6 +20,9 @@
     height: 200px;
     background-color: #e74c3c;
     display: inline-flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
 
 }
 button {
